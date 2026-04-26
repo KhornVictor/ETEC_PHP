@@ -1,5 +1,5 @@
 <header class="mb-4 flex justify-between w-full">
-    <h1 class="m-0 text-[2rem] font-bold tracking-tight">Dashboard</h1>
+    <h1 class="m-0 text-[2rem] font-bold tracking-tight"><?php echo htmlspecialchars($pageTitle ?? 'Dashboard', ENT_QUOTES, 'UTF-8'); ?></h1>
 
     
     <div class="flex items-center gap-2.5">

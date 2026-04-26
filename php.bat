@@ -1,1 +1,1 @@
-start chrome http://localhost/ETEC/PHP/index.php
+start chrome http://localhost/ETEC/PHP/
