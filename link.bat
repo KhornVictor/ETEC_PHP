@@ -1,0 +1,1 @@
+start chrome http://localhost/ETEC/index.php
