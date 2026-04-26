@@ -8,6 +8,6 @@
         </div>
         <button class="grid h-9 w-9 place-items-center rounded-full border border-slate-200 bg-white text-sm font-bold text-slate-500" aria-label="Notifications">N</button>
         <button class="rounded-full bg-slate-900 px-4 py-2.5 text-sm font-semibold text-white">Upgrade plan</button>
-        <img class="h-9 w-9 rounded-full object-cover" src="../../../public/images/avatar.png" alt="Profile">
+        <img class="h-9 w-9 rounded-full object-cover" src="public/images/avatar.png" alt="Profile">
     </div>
 </header>
