@@ -1,0 +1,18 @@
+:root {
+  --bg: #f4f6f7;
+  --panel: #ffffff;
+  --line: #e7ebee;
+  --text: #11151b;
+  --muted: #6f7782;
+  --primary: #3a8f42;
+  --danger: #cb4b4b;
+  --success: #32985a;
+  --shadow: 0 20px 45px -28px rgba(17, 21, 27, 0.24);
+  --radius: 20px;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
