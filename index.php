@@ -11,7 +11,6 @@
 	<link href="public/css/dashboard.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 	<script src="https://cdn.tailwindcss.com"></script>
-	<script src="tailwind.config.js"></script>
 	<script src="https://kit.fontawesome.com/409239094a.js" crossorigin="anonymous"></script>
 
 </head>
