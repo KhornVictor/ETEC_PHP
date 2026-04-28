@@ -89,4 +89,4 @@ Runtime requirements:
 - connect PDO in `config/database.php`
 - move static sample data into model files
 
-sdfsdfsdfsdfsdf
+sdfsdfsd
